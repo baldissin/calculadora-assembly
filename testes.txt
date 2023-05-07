@@ -1,0 +1,330 @@
+Trabalho Calculadora Assembly
+Allan Baldissin nUSP 8657904
+
+TESTES REALIZADOS
+
+Menu Inicial
+
+Digite C ou M
+ C: Realizar operações
+ M: Conferir resultados anteriores
+
+ Operação escolhida:CC – MENU SECUNDÁRIO 1
+1 - Adição
+2 - Subtração
+3 - Divisão
+4 - Multiplicação
+5 - Potenciação
+6 - Raiz Quadrada
+7 - Tabuada
+8 - Fatorial
+9 - Sequência de Fibonacci
+Digite uma opção:11  – OPERAÇÃO ADIÇÃO
+Digite um número: 2
+
+Digite um número: 3
+
+O resultado é: 5
+Menu Inicial
+
+Digite C ou M
+ C: Realizar operações
+ M: Conferir resultados anteriores
+
+ Operação escolhida:CC
+1 - Adição
+2 - Subtração
+3 - Divisão
+4 - Multiplicação
+5 - Potenciação
+6 - Raiz Quadrada
+7 - Tabuada
+8 - Fatorial
+9 - Sequência de Fibonacci
+Digite uma opção:22 – OPERAÇÃO SUBTRAÇÃO
+Digite um número: 4
+
+Digite um número: 6
+
+O resultado é: -2
+Menu Inicial
+
+Digite C ou M
+ C: Realizar operações
+ M: Conferir resultados anteriores
+
+ Operação escolhida:CC
+1 - Adição
+2 - Subtração
+3 - Divisão
+4 - Multiplicação
+5 - Potenciação
+6 - Raiz Quadrada
+7 - Tabuada
+8 - Fatorial
+9 - Sequência de Fibonacci
+Digite uma opção:33 – OPERAÇÃO DIVISÃO
+Digite um número: 6
+
+Digite um número: 2
+
+O resultado é: 3
+Menu Inicial
+
+Digite C ou M
+ C: Realizar operações
+ M: Conferir resultados anteriores
+
+ Operação escolhida:CC
+1 - Adição
+2 - Subtração
+3 - Divisão
+4 - Multiplicação
+5 - Potenciação
+6 - Raiz Quadrada
+7 - Tabuada
+8 - Fatorial
+9 - Sequência de Fibonacci
+Digite uma opção:33 – OPERAÇÃO DIVISÃO
+Digite um número: 6
+
+Digite um número: 0  – DIVISOR 0
+
+O número digitado não pode ser 0.
+Digite um número: 6
+
+Digite um número: 1
+
+O resultado é: 6
+Menu Inicial
+
+Digite C ou M
+ C: Realizar operações
+ M: Conferir resultados anteriores
+
+ Operação escolhida:CC
+1 - Adição
+2 - Subtração
+3 - Divisão
+4 - Multiplicação
+5 - Potenciação
+6 - Raiz Quadrada
+7 - Tabuada
+8 - Fatorial
+9 - Sequência de Fibonacci
+Digite uma opção:44 – OPERAÇÃO MULTIPLICAÇÃO
+Digite um número: 10
+
+Digite um número: 3
+
+O resultado é: 30
+Menu Inicial
+
+Digite C ou M
+ C: Realizar operações
+ M: Conferir resultados anteriores
+
+ Operação escolhida:CC
+1 - Adição
+2 - Subtração
+3 - Divisão
+4 - Multiplicação
+5 - Potenciação
+6 - Raiz Quadrada
+7 - Tabuada
+8 - Fatorial
+9 - Sequência de Fibonacci
+Digite uma opção:55 – OPERAÇÃO POTENCIAÇÃO
+Digite um número: 3
+
+Digite um número: 3
+
+O resultado é: 27
+Menu Inicial
+
+Digite C ou M
+ C: Realizar operações
+ M: Conferir resultados anteriores
+
+ Operação escolhida:CC
+1 - Adição
+2 - Subtração
+3 - Divisão
+4 - Multiplicação
+5 - Potenciação
+6 - Raiz Quadrada
+7 - Tabuada
+8 - Fatorial
+9 - Sequência de Fibonacci
+Digite uma opção:66 – OPERAÇÃO RAIZ QUADRADA
+Digite um número: 16
+
+O resultado é: 4
+Menu Inicial
+
+Digite C ou M
+ C: Realizar operações
+ M: Conferir resultados anteriores
+
+ Operação escolhida:CC
+1 - Adição
+2 - Subtração
+3 - Divisão
+4 - Multiplicação
+5 - Potenciação
+6 - Raiz Quadrada
+7 - Tabuada
+8 - Fatorial
+9 - Sequência de Fibonacci
+Digite uma opção:66 – OPERAÇÃO RAIZ QUADRADA
+Digite um número: 21
+Não é uma raiz quadrada perfeita
+Menu Inicial
+
+Digite C ou M
+ C: Realizar operações
+ M: Conferir resultados anteriores
+
+ Operação escolhida:CC
+1 - Adição
+2 - Subtração
+3 - Divisão
+4 - Multiplicação
+5 - Potenciação
+6 - Raiz Quadrada
+7 - Tabuada
+8 - Fatorial
+9 - Sequência de Fibonacci
+Digite uma opção:77 – OPERAÇÃO TABUADA
+Digite um número: 8
+0
+8
+16
+24
+32
+40
+48
+56
+64
+72
+80
+
+Menu Inicial
+
+Digite C ou M
+ C: Realizar operações
+ M: Conferir resultados anteriores
+
+ Operação escolhida:CC
+1 - Adição
+2 - Subtração
+3 - Divisão
+4 - Multiplicação
+5 - Potenciação
+6 - Raiz Quadrada
+7 - Tabuada
+8 - Fatorial
+9 - Sequência de Fibonacci
+Digite uma opção:88 – OPERAÇÃO FATORIAL
+Digite um número: 4
+24
+Menu Inicial
+
+Digite C ou M
+ C: Realizar operações
+ M: Conferir resultados anteriores
+
+ Operação escolhida:CC
+1 - Adição
+2 - Subtração
+3 - Divisão
+4 - Multiplicação
+5 - Potenciação
+6 - Raiz Quadrada
+7 - Tabuada
+8 - Fatorial
+9 - Sequência de Fibonacci
+Digite uma opção:99 – OPERAÇÃO SEQUENCIA DE FIBONNACI
+Digite um número: 11
+
+O resultado é: 89
+Menu Inicial
+
+Digite C ou M
+ C: Realizar operações
+ M: Conferir resultados anteriores
+
+ Operação escolhida:MM – MENU SECUNDÁRIO 2
+
+1 - M1
+2 - M2
+3 - M3
+Digite uma opção: M1 – RESULTADO DE M1
+O resultado da última operação é: 89
+
+1 - M1
+2 - M2
+3 - M3
+Digite uma opção: M2 – RESULTADO DE M2
+O resultado da penúltima operação é: 24
+
+1 - M1
+2 - M2
+3 - M3
+Digite uma opção: M3 – RESULTADO DE M3
+O resultado da antepenúltima operação é: 4
+
+1 - M1
+2 - M2
+3 - M3
+Digite uma opção: AA – SAIR DO MENU SECUNDÁRIO 2
+Menu Inicial
+
+Digite C ou M
+ C: Realizar operações
+ M: Conferir resultados anteriores
+
+ Operação escolhida:AA – SAIR DO MENU PRINCIPAL
+-- program is finished running –
+
+RODANDO NOVAMENTE
+
+Menu Inicial
+
+Digite C ou M
+ C: Realizar operações
+ M: Conferir resultados anteriores
+
+ Operação escolhida:MM – MENU SECUNDÁRIO 2
+
+1 - M1
+2 - M2
+3 - M3
+Digite uma opção: M1 – RESULTADO DE M1
+Não existe resultado.
+
+1 - M1
+2 - M2
+3 - M3
+Digite uma opção: M2 – RESULTADO DE M2
+Não existe resultado.
+
+1 - M1
+2 - M2
+3 - M3
+Digite uma opção: M3 – RESULTADO DE M3
+Não existe resultado.
+
+1 - M1
+2 - M2
+3 - M3
+Digite uma opção: AA – SAIR DO MENU SECUNDÁRIO 2
+Menu Inicial
+
+Digite C ou M
+ C: Realizar operações
+ M: Conferir resultados anteriores
+
+ Operação escolhida:AA – SAIR DO MENU PRINCIPAL
+-- program is finished running --
+
